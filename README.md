@@ -4,8 +4,12 @@
 
 ![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_1.png)
 
+## Purpose
+
 I initially developed this tool to play around & design patterns to do peyote stitch bracelets, but it can actually be used for any weaving practice, to be displayed on the web, printed, and probably many other usages!
 The pattern tile can be downloaded in SVG format, and is for example used here on the website as a repeating background image set in CSS.
+
+## Usage
 
 The tool has 2 views, toggled by clicking on the button “Show / Hide settings” in the top right corner:
 
@@ -20,4 +24,18 @@ The tool has 2 views, toggled by clicking on the button “Show / Hide settings�
   - a button to reset the original base pattern of the chosen mode,
   - a button to download the pattern tile in SVG format.
 
+## Technology
+
 This application is coded in React.JS.
+
+## Examples of patterns
+
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_2.png)
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_3.png)
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_4.png)
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_5.png)
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_6.png)
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_7.png)
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_8.png)
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_9.png)
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_10.png)
