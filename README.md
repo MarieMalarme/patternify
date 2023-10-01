@@ -2,6 +2,8 @@
 
 [Patternify](https://patternify.studiodev.xyz/) is a little web-based tool to create patterns on a grid & preview it live; the size, colors and inputs to generate and edit the pattern are all customizable.
 
+![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_1.png)
+
 I initially developed this tool to play around & design patterns to do peyote stitch bracelets, but it can actually be used for any weaving practice, to be displayed on the web, printed, and probably many other usages!
 The pattern tile can be downloaded in SVG format, and is for example used here on the website as a repeating background image set in CSS.
 
