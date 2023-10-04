@@ -1,8 +1,8 @@
-# Patternify
+# Patternizify
 
 [Patternify](https://patternify.studiodev.xyz/) is a little web-based tool to create patterns on a grid & preview it live; the size, colors and inputs to generate and edit the pattern are all customizable.
 
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_1.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_1.png)
 
 ## Purpose
 
@@ -30,12 +30,12 @@ This application is coded in React.JS.
 
 ## Examples of patterns
 
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_2.png)
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_3.png)
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_4.png)
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_5.png)
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_6.png)
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_7.png)
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_8.png)
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_9.png)
-![](https://github.com/MarieMalarme/patternify/blob/main/src/images/visual_10.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_2.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_3.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_4.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_5.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_6.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_7.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_8.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_9.png)
+![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_10.png)
