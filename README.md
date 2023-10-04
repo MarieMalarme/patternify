@@ -1,6 +1,6 @@
 # Patternizify
 
-[Patternify](https://patternizify.studiodev.xyz/) is a little web-based tool to create patterns on a grid & preview it live; the size, colors and inputs to generate and edit the pattern are all customizable.
+[Patternizify](https://patternizify.studiodev.xyz/) is a little web-based tool to create patterns on a grid & preview it live; the size, colors and inputs to generate and edit the pattern are all customizable.
 
 ![](https://github.com/MarieMalarme/patternizify/blob/main/src/images/visual_1.png)
 
